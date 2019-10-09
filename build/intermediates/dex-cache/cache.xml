@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_39f610d99357e703361865540c85402535f95983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/houssem/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_bb4676b4f48e26dc05565ad5c5e88b31b825b3e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_b0d1c573adf116bd5f96f0629cdb8dc9d4deff23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_23a050e49967b38e53b0e767236bed3610212e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_99dae726cb48daafa5272ae7c9c874d65799b564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/exploded-aar/sun.bob/mcalendarview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3ecf17ba03cf1dde4423b5ecf72fe09c9283fc27">
+        <dex dex="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/pre-dexed/debug/sun.bob-mcalendarview-1.0.0_686621948c2e2d7f612829d51d29e087003ad817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/houssem/Bureau/mCalendarView-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_37d91866b92b0b5fbb37f67eac1ce566c30a5711.jar" />
+    </item>
+
+</items>
